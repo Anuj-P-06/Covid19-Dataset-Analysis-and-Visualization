@@ -7,4 +7,4 @@ In this project, I explored COVID-19 data using SQL to analyze global infection 
 3) Analyze Variations by Region: Examine how COVID-19 affects different regions and continents differently.
 4) Enhance SQL Skills: Improve proficiency in handling complex queries and working with large datasets.
 
-# 
+# Queries Performed
