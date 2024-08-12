@@ -8,13 +8,13 @@ In this project, I explored COVID-19 data using SQL to analyze global infection 
 4) Enhance SQL Skills: Improve proficiency in handling complex queries and working with large datasets.
 
 # Queries Performed:
-• Joins.
-• CTE's.
-• Temp Tables.
-• Windows Functions.
-• Aggregate Functions.
-• Creating Views.
-• Converting Data Types.
+• Joins
+• CTE's
+• Temp Tables
+• Windows Functions
+• Aggregate Functions
+• Creating Views
+• Converting Data Types
 
 # Data Source
 https://ourworldindata.org/covid-deaths
