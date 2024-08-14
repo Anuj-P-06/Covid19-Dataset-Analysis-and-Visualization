@@ -9,7 +9,7 @@
 - [Data Source](#data-source)
 
 ### Project Overview:
-In this project, I explored COVID-19 data using SQL to analyze global infection rates, death rates, and vaccination progress etc. I applied advanced SQL techniques like joins, CTEs, window functions, and data type conversions to calculate and visualize key metrics. This analysis helped me gain insights into the pandemic's impact across various countries and continents.
+In this project, I explored COVID-19 data using SQL to analyze global infection rates, death rates, and vaccination progress etc. I applied advanced SQL techniques like joins, CTEs, window functions, and data type conversions to calculate and visualize data in Tableau. This analysis helped me gain insights into the pandemic's impact across various countries and continents.
 
 ### Reasons for making this project:
 1) Understand Global Impact: Analyze infection and death rates to analyse the pandemic's effect worldwide.
