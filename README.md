@@ -44,12 +44,12 @@ In this project, I explored COVID-19 data using SQL to analyze global infection 
 - Top 5 country according to hospital admittable ability.
 - Cases and Death per month and of individual country.
 - Top 10 country according to most test done.
-- Total population with respect to vaccination rate
-- Death count of every continents
+- Total population with respect to vaccination rate.
+- Death count of every continents.
   
 ### Tableau DashBoard Link
 [Covid DashBoard](https://public.tableau.com/app/profile/anuj.prasad7773/viz/COVID19DashBoard_17236317743840/Dashboard1)
 
 ### Data Source
-1) Data used in SQL and Tableau [Download](https://ourworldindata.org/covid-deaths)
-2) Data used in Tableau for making map [Download](https://data.world/covid-19-data-resource-hub/covid-19-case-counts)
+1) Data used in SQL and Tableau [Download](https://ourworldindata.org/covid-deaths).
+2) Data used in Tableau for making map [Download](https://data.world/covid-19-data-resource-hub/covid-19-case-counts).
