@@ -39,7 +39,8 @@ In this project, I explored COVID-19 data using SQL to analyze global infection 
 
 ### Results and Findings
 - 
-
+### Tableau DashBoard Link
+[Covid DashBoard](https://public.tableau.com/app/profile/anuj.prasad7773/viz/COVIDTABLEAUDONE/Dashboard1?publish=yes)
 
 ### Data Source
 1) Data used in SQL and Tableau [Download](https://ourworldindata.org/covid-deaths)
