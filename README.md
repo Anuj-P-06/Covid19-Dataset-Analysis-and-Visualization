@@ -38,9 +38,17 @@ In this project, I explored COVID-19 data using SQL to analyze global infection 
 - Converting Data Types
 
 ### Results and Findings
-- 
+- How many people were infected with Covid 19 in each country.
+- Which country had highest infection rate.
+- Rate of testing of country.
+- Top 5 country according to hospital admittable ability.
+- Cases and Death per month and of individual country.
+- Top 10 country according to most test done.
+- Total population with respect to vaccination rate
+- Death count of every continents
+  
 ### Tableau DashBoard Link
-[Covid DashBoard](https://public.tableau.com/app/profile/anuj.prasad7773/viz/COVIDTABLEAUDONE/Dashboard1?publish=yes)
+[Covid DashBoard](https://public.tableau.com/app/profile/anuj.prasad7773/viz/COVID19DashBoard_17236317743840/Dashboard1)
 
 ### Data Source
 1) Data used in SQL and Tableau [Download](https://ourworldindata.org/covid-deaths)
