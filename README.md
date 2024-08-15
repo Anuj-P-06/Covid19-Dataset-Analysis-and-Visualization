@@ -1,12 +1,13 @@
 # Covid 19 Dataset Analysis
 ## Table of Contents
-- [Project Overview](#project-overview)
-- [Reasons for making this project](#reasons-for-making-this-project)
-- [Tools Used](#tools-used)
-- [Tasks Performed](#task-performed)
-- [Queries Performed](#queries-performed)
-- [Results and Findings](#results-and-findings)
-- [Data Source](#data-source)
+- [Project Overview.](#project-overview)
+- [Reasons for making this project.](#reasons-for-making-this-project)
+- [Tools Used.](#tools-used)
+- [Tasks Performed.](#task-performed)
+- [Queries Performed.](#queries-performed)
+- [Tableau DashBoard Screenshot.](#tableau-dashBoard-screenshot)
+- [Results and Findings.](#results-and-findings)
+- [Data Source.](#data-source)
 
 ### Project Overview:
 In this project, I explored COVID-19 data using SQL to analyze global infection rates, death rates, and vaccination progress etc. I applied advanced SQL techniques like joins, CTEs, window functions, and data type conversions to calculate and visualize data in Tableau. This analysis helped me gain insights into the pandemic's impact across various countries and continents.
@@ -36,6 +37,9 @@ In this project, I explored COVID-19 data using SQL to analyze global infection 
 - Aggregate Functions
 - Creating Views
 - Converting Data Types
+
+### Tableau DashBoard Screenshot
+(![Screenshot 2024-08-14 140310](https://github.com/user-attachments/assets/1be9fcba-fcb1-41bf-bb82-8ca493f95de2))
 
 ### Results and Findings
 - How many people were infected with Covid 19 in each country.
