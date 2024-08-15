@@ -39,7 +39,7 @@ In this project, I explored COVID-19 data using SQL to analyze global infection 
 - Converting Data Types
 
 ### Tableau DashBoard Screenshot
-(![Screenshot 2024-08-14 140310](https://github.com/user-attachments/assets/1be9fcba-fcb1-41bf-bb82-8ca493f95de2))
+![Screenshot 2024-08-14 140310](https://github.com/user-attachments/assets/1be9fcba-fcb1-41bf-bb82-8ca493f95de2)
 
 ### Results and Findings
 - How many people were infected with Covid 19 in each country.
